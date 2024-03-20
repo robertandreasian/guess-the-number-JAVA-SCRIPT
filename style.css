@@ -1,0 +1,23 @@
+html {
+    font-family: sans-serif;
+  }
+
+  body {
+    background-color: #a28089;
+    color: #edf756;
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+  }
+  
+  .form input[type="number"] {
+    width: 200px;
+    background-color: #51e2f5;
+    color: #a28089
+  }
+
+  .lastResult {
+    color: #edf756;
+    padding: 3px;
+  }
