@@ -1,1 +1,1 @@
-# guess-the-number-JAVA-SCRIPT
+# todo-pattern-vanilla-JS
